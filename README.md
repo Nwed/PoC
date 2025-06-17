@@ -1,4 +1,4 @@
-# ssrf_advanced.pl – Advanced SSRF PoC for SonicWall SMA1000
+# Advanced SSRF PoC for SonicWall SMA1000
 
 **Author:** TURKI ALNAFIE  
 **Created:** 2025-06-18
